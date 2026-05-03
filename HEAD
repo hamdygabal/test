@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 25b7b4906ee24c4c9d84d407d534749707bc59aa git <git@it.whm.com> 1777842303 +0300	clone: from https://github.com/hamdygabal/test.git
+25b7b4906ee24c4c9d84d407d534749707bc59aa d564482fbf9bbb417f14fc24234c109c319627fa hamdygabal <hamdygabal2@gmail.com> 1777842524 +0300	commit: in server
+d564482fbf9bbb417f14fc24234c109c319627fa 6efcba7dcfdcb2e3cc6c2bc4482e57d7d382a8db hamdygabal <hamdygabal2@gmail.com> 1777842597 +0300	commit (amend): new commit message
